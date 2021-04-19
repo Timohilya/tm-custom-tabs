@@ -1,0 +1,9 @@
+.tm-tabs__tab.active {
+    font-weight: 700;
+}
+.tm-tabs__container {
+    display: none;
+}
+.tm-tabs__container.active {
+    display: flex;
+}
